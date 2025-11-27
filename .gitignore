@@ -1,0 +1,5 @@
+node_modules/
+build-complex.log
+.env
+.DS_Store
+*.log

@@ -1,0 +1,20 @@
+{
+  "name": "ecies_chat",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "BuildProject.js",
+  "dependencies": {
+    "formdata-polyfill": "^4.0.10",
+    "node-domexception": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "web-streams-polyfill": "^3.3.3"
+  },
+  "scripts": {
+    "build": "node BuildProject.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ecies", "chat", "bsv", "encryption"],
+  "author": "Gregory Ward (CodenLighten)",
+  "license": "MIT",
+  "description": "ECIES Chat Application Builder using Lumen Bridge"
+}
