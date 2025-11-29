@@ -532,12 +532,20 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📬 Contact
+## 📬 Contact & Author
 
-**Author**: Gregory Ward (CodenLighten)
+### 👨‍💻 Author
 
+**Gregory Ward (CodenLighten)**  
+Chief Development Officer & Co-Founder  
+[github.com/codenlighten](https://github.com/codenlighten)
+
+**Organizations:**
+- [SmartLedger.Technology](https://smartledger.technology)
+- [Codenlighten.org](https://codenlighten.org)
+
+**Platform:**
 - 🌐 [Lumen Bridge Platform](https://lumenbridge.codenlighten.org)
-- 💼 [GitHub](https://github.com/codenlighten)
 - 📧 Contact via Lumen Bridge
 
 ---
