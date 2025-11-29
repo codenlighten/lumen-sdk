@@ -1,8 +1,9 @@
 # 🌉 Lumen SDK & Project Factory
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](./LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)](https://nodejs.org/)
 [![Lumen Bridge](https://img.shields.io/badge/Powered%20by-Lumen%20Bridge-blue)](https://lumenbridge.codenlighten.org)
+[![Patents Pending](https://img.shields.io/badge/Patents-Pending-orange.svg)](./LICENSE)
 
 **Build entire production-ready applications from natural language descriptions using AI agents.**
 
@@ -519,7 +520,13 @@ Contributions welcome! This is an experimental project showcasing AI-powered cod
 
 ## 📜 License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+**Proprietary License** - All Rights Reserved
+
+This software contains proprietary information and trade secrets. Patents pending.
+
+See [LICENSE](LICENSE) file for complete terms and restrictions.
+
+For licensing inquiries, contact via GitHub or Lumen Bridge.
 
 ---
 

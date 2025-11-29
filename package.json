@@ -15,6 +15,6 @@
   },
   "keywords": ["ecies", "chat", "bsv", "encryption"],
   "author": "Gregory Ward (CodenLighten)",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "description": "ECIES Chat Application Builder using Lumen Bridge"
 }
