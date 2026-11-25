@@ -1,5 +1,7 @@
 # 🌉 Lumen SDK & Project Factory
 
+> **Status: experimental.** Claims in this README about scale, speed, security or readiness are design goals or earlier drafts unless they point to a test, measurement or audit report. No independent audit is claimed.
+
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](./LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)](https://nodejs.org/)
 [![Lumen Bridge](https://img.shields.io/badge/Powered%20by-Lumen%20Bridge-blue)](https://lumenbridge.codenlighten.org)
