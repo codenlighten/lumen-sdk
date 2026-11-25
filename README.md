@@ -7,7 +7,7 @@
 [![Lumen Bridge](https://img.shields.io/badge/Powered%20by-Lumen%20Bridge-blue)](https://lumenbridge.codenlighten.org)
 [![Patents Pending](https://img.shields.io/badge/Patents-Pending-orange.svg)](./LICENSE)
 
-**Build entire production-ready applications from natural language descriptions using AI agents.**
+**Generate application scaffolds from natural language descriptions using AI agents.**
 
 The Lumen SDK provides a powerful project factory that transforms your ideas into fully-structured, deployable codebases through an intelligent multi-agent workflow.
 
@@ -36,7 +36,7 @@ await builder.build("Create a real-time chat app with end-to-end encryption usin
 - ✨ Improve and clarify your prompt
 - 🏗️ Design the complete architecture
 - 📋 Create a chronological build plan
-- 💾 Generate production-ready code files
+- 💾 Generate code files
 - 🔧 Set up dependencies and configuration
 
 ---
@@ -54,13 +54,13 @@ Your Idea → PromptImprover → ProjectArchitect → ChronosPlanner → CodeGen
 | **PromptImprover** | Analyzes your idea, identifies core features, suggests tech stack, highlights challenges |
 | **ProjectArchitect** | Designs file structure, defines modules, specifies dependencies, plans data flow |
 | **ChronosPlanner** | Creates ordered build steps, handles dependencies, sequences file generation |
-| **CodeGenerator** | Produces production-ready code with best practices, tests, and documentation |
+| **CodeGenerator** | Produces code with tests and documentation |
 
 ### What Makes It Powerful
 
 - 🧠 **Context-Aware**: Understands complex, multi-paragraph requirements
 - 🏛️ **Architecture-First**: Plans before coding (files, modules, dependencies)
-- 📝 **Production-Ready**: Generates real, working code with error handling
+- 📝 **Generated code**: includes error handling
 - 🧪 **Test-Included**: Unit tests generated alongside implementation
 - 🔄 **Reusable**: One class, infinite projects
 - 🎨 **Smart Patterns**: Follows best practices for each technology
